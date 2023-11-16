@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Poppins:wght@400;500;700&family=Ubuntu:ital,wght@0,300;1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Poppins:wght@400;500;700&family=Roboto&family=Ubuntu:ital,wght@0,300;1,300&display=swap');
+
+/* common start */
+body {
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #000000;
+}
+
+/* common end */
+/* header start */
+header {
+    background-color: #d3f4d3;
+    padding: 15px;
+}
+
+h1 { display: block;
+    float: right;
+    color: #000;
+}
+
+.c_nav {}
+
+.logo {
+    float: left;
+}
+
+.menu ul li a {
+    padding: 0 24px !important;
+    color: #000 !important;
+}
+
+.menu ul li a:hover {
+    color: #FD511A !important;
+}
+
+/* header end */
+/* button start */
+.btn_c {
+    background-color: #21B573 !important;
+    border-radius: 33px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1pxpcpc6px;
+    font-weight: 400;
+    color: white;
+}
+
+.btn_sign {
+    padding: 12px 28px;
+    margin-left: 10px;
+}
+
+.btn_c:hover,
+.btn_c:active {
+    background-color: #FD511A !important;
+    color: white !important;
+}
+.s-tex{float: left;}
+.s-tex h1{float: left;}
+.s-tex li{text-align: center;}
+
+.s-img{float: right;}
+.slider{background-color: #fcdb00;}
+.s-icon-item{font-size: 42px;}
+.row{margin-right: 0; padding-right: 0;}
+.buttonnext{margin: auto 0;}
+/* button end */
+
